@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>klarnacheckout</name>
+	<displayName><![CDATA[Klarna Checkout]]></displayName>
+	<version><![CDATA[2.38]]></version>
+	<description><![CDATA[Adds a cart block with klarna checkout links.]]></description>
+	<author><![CDATA[Prestaworks AB]]></author>
+	<tab><![CDATA[payments_gateways]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

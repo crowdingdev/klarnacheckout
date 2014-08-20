@@ -1,0 +1,1 @@
+<script async src="https://cdn.klarna.com/1.0/code/client/all.js"></script>
